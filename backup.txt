@@ -1,0 +1,3 @@
+Daniel,Morales,1,3434-3434,Guatemala,02/11/1998,19,Vaja Verapaz,jpoou@gmail.com,/Users/jpoou/NetBeansProjects/Agenda/perfiles/W4IVEE7XKEWEIBDTV3.bin
+Juan carlos,Morales,1,8956-2390,Guatemal,13/01/1998,20,VJ,gmai@gmial.com,/Users/jpoou/NetBeansProjects/Agenda/perfiles/profile.png
+Juan Carlos Daniel,Morales Poou,1,4909-8732,City Guatemala,02/11/1998,19,Guatemala,juancarlos@gmail.com,/Users/jpoou/NetBeansProjects/Agenda/perfiles/profile.png
